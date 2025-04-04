@@ -2,6 +2,8 @@
 
 [![Contador de Visualizações](https://komarev.com/ghpvc/?username=vitorfscs&color=blue)](https://github.com/vitorfscs)
 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorfscs&show_icons=true&theme=radical)](https://github.com/vitorfscs)
+
 -  Sou interessado em **Tecnologia** e **Bio-Tecnologia**.
 -  Atualmente, estou **estudando** e buscando sempre me aprimorar.
 - ️ Busco o máximo colaborar e fazer **projetos pessoais**.
