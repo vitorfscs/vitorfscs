@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="30" />
   <img src="https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" width="100" height="30" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width="100" height="30" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" width="100" height="30" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" width="100" height="30" />
+  <img src="  https://img.shields.io/badge/-Python-339933?logo=python&logoColor=white" alt="Node.js" width="100" height="30" />
 </div>
 
 -  Como me encontrar: **[E-mail](mailto:joaovitorfonseca123@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/jvitorfscs/)**.
