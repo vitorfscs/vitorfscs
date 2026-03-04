@@ -1,77 +1,84 @@
 # 👋 Olá, eu sou João Silva
 
-💻 Desenvolvedor focado em **JavaScript, TypeScript, Node.js e SQL**
-🚀 Construindo projetos, aprendendo todos os dias e evoluindo na prática.
+📊 **Analista de Dados** focado em transformar dados em decisões.  
+💡 Trabalho com **SQL, Excel, Power BI e Python** para análise, visualização e geração de insights.
+
+🚀 Atualmente estudando e desenvolvendo projetos práticos de análise de dados, dashboards e modelagem de informações.
 
 ---
 
-## 📊 Estatísticas do Perfil
+# 📊 Estatísticas do Perfil
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEUUSERNAME\&color=blue)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue)
 
-![Contador de projetos](https://img.shields.io/badge/dynamic/json?color=blue\&label=Projetos%20Públicos\&query=%24.public_repos\&url=https://api.github.com/users/SEUUSERNAME)
+![Contador de projetos](https://img.shields.io/badge/dynamic/json?color=blue&label=Projetos%20Públicos&query=%24.public_repos&url=https://api.github.com/users/SEUUSERNAME)
 
-![Seguidores](https://img.shields.io/github/followers/SEUUSERNAME?label=Seguidores\&style=social)
-
----
-
-## 🧠 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
+![Seguidores](https://img.shields.io/github/followers/SEUUSERNAME?label=Seguidores&style=social)
 
 ---
 
-## 📈 Estatísticas Gerais do GitHub
+# 🧠 Ferramentas e Tecnologias
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=tokyonight)
+## 📊 Análise de Dados
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSERNAME\&theme=tokyonight)
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-### 💡 Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📌 Projetos em Destaque
+## 🐍 Python para Dados
 
-* 🚀 API - Vendas 
-* 🚀 API - SITE VIAGEM
-* 🚀 API - HOTELARIA
-
----
-
-## 🎯 Objetivos Atuais
-
-✔ Evoluir como desenvolvedor backend
-✔ Construir APIs escaláveis
-✔ Criar projetos completos do banco ao deploy
-✔ Contribuir com projetos open source
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-## 📫 Contato
+# 📌 Projetos em Destaque
 
-* 💼 LinkedIn: [https://linkedin.com/in/jvitorfscs](https://linkedin.com/in/jvitorfscs)
-* 📧 Email: [joaovitorfonseca123@gmail.com](mailto:joaovitorfonseca123@gmail.com)
+📊 **Análise de Vendas com SQL + Excel**  
+Análise exploratória de dados de vendas com criação de KPIs e métricas de negócio.
+
+📈 **Dashboard de Vendas - Power BI**  
+Dashboard interativo com indicadores de faturamento, ticket médio e categorias de produtos.
+
+🐍 **Análise de Dados com Python**  
+Limpeza, transformação e análise de dados utilizando Pandas e NumPy.
+
+📉 **Projeto de BI - Indicadores de Negócio**  
+Construção de métricas estratégicas para tomada de decisão.
 
 ---
 
-⭐ Se curtir algum projeto, não esquece de dar uma estrela!
+# 📚 Atualmente Estudando
+
+📊 SQL Avançado  
+📊 Análise Exploratória de Dados  
+📊 Estatística para Dados  
+📊 Python para Análise de Dados  
+📊 Visualização de Dados e Storytelling
+
+---
+
+# 🎯 Objetivos
+
+✔ Evoluir como **Analista de Dados**  
+✔ Construir **projetos reais de análise de dados**  
+✔ Criar **dashboards profissionais**  
+✔ Trabalhar com **dados para apoiar decisões estratégicas**
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://linkedin.com/in/jvitorfscs
+
+📧 Email  
+joaovitorfonseca123@gmail.com
+
+---
+
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
