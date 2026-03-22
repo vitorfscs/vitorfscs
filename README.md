@@ -1,83 +1,73 @@
-# 👋 Olá, eu sou João Silva
+Aqui está o código completo em Markdown.
 
-📊 **Analista de Dados** focado em transformar dados em decisões.  
-💡 Trabalho com **SQL, Excel, Power BI e Python** para análise, visualização e geração de insights.
+Note que eu atualizei os links do LinkedIn e e-mail com base nos seus dados e adicionei as tecnologias que você mencionou (Java, Oracle, PL/SQL). Basta copiar e colar no seu README.md do GitHub:
 
-🚀 Atualmente estudando e desenvolvendo projetos práticos de análise de dados, dashboards e modelagem de informações.
+Markdown
+# 👋 Olá, eu sou João Vitor (Vitor)
+
+📊 **System & Data Analyst na área da Saúde | Estagiário de Sistemas Healthcare** 💡 Focado em transformar dados complexos em decisões estratégicas no setor hospitalar.  
+🚀 Especialista em regras de negócio no ecossistema **Tasy (HTML/Java)** e modelagem de informações.
 
 ---
 
 # 📊 Estatísticas do Perfil
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue)
-
-![Contador de projetos](https://img.shields.io/badge/dynamic/json?color=blue&label=Projetos%20Públicos&query=%24.public_repos&url=https://api.github.com/users/SEUUSERNAME)
-
-![Seguidores](https://img.shields.io/github/followers/SEUUSERNAME?label=Seguidores&style=social)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=jvitorfscs&color=0078D4)
+![Contador de projetos](https://img.shields.io/badge/dynamic/json?color=0078D4&label=Projetos%20Públicos&query=%24.public_repos&url=https://api.github.com/users/jvitorfscs)
 
 ---
 
 # 🧠 Ferramentas e Tecnologias
 
-## 📊 Análise de Dados
+## 🏥 Healthcare & Systems
+![Tasy](https://img.shields.io/badge/Tasy-Philips-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Health_IT](https://img.shields.io/badge/Health--IT-Systems-green?style=for-the-badge)
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🗄️ Database & SQL
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-Database-orange?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 🐍 Data Science & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🐍 Python para Dados
+# 📌 Atuação e Expertise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+🩺 **Análise de Sistemas Hospitalares (Tasy)** Atuação técnica em módulos assistenciais e administrativos, garantindo a integridade dos dados e fluxos de trabalho.
 
----
+📊 **SQL Avançado para Saúde** Construção de queries complexas, views e automação de extração de dados para suporte à decisão clínica.
 
-# 📌 Projetos em Destaque
-
-📊 **Análise de Vendas com SQL + Excel**  
-Análise exploratória de dados de vendas com criação de KPIs e métricas de negócio.
-
-📈 **Dashboard de Vendas - Power BI**  
-Dashboard interativo com indicadores de faturamento, ticket médio e categorias de produtos.
-
-🐍 **Análise de Dados com Python**  
-Limpeza, transformação e análise de dados utilizando Pandas e NumPy.
-
-📉 **Projeto de BI - Indicadores de Negócio**  
-Construção de métricas estratégicas para tomada de decisão.
+🐍 **Análise de Dados com Python** Utilização de bibliotecas como Pandas e NumPy para limpeza e transformação de grandes volumes de dados.
 
 ---
 
 # 📚 Atualmente Estudando
 
-📊 SQL Avançado  
-📊 Análise Exploratória de Dados  
-📊 Estatística para Dados  
-📊 Python para Análise de Dados  
-📊 Visualização de Dados e Storytelling
+* 📊 **PL/SQL Avançado:** Procedures, Triggers e Performance Tuning.
+* 🏥 **Business Rules:** Aprofundamento nas regras de negócio de sistemas de saúde.
+* 📈 **Visualização de Dados:** Storytelling com Power BI.
+* 🇬🇧 **English:** Foco em proficiência para atuação global.
 
 ---
 
 # 🎯 Objetivos
 
-✔ Evoluir como **Analista de Dados**  
-✔ Construir **projetos reais de análise de dados**  
-✔ Criar **dashboards profissionais**  
-✔ Trabalhar com **dados para apoiar decisões estratégicas**
+✔ Evoluir como **Analista de Sistemas e Dados** no setor de saúde.  
+✔ Desenvolver soluções tecnológicas que otimizem o cuidado ao paciente.  
+✔ Aplicar inteligência de dados em ambientes hospitalares de alta complexidade.
 
 ---
 
 # 📫 Contato
 
-💼 LinkedIn  
-https://linkedin.com/in/jvitorfscs
-
-📧 Email  
-joaovitorfonseca123@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/jvitorfscs)  
+📧 [Email](mailto:joaovitorfonseca123@gmail.com)
 
 ---
 
