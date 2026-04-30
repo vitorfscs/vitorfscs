@@ -1,8 +1,3 @@
-Aqui está o código completo em Markdown.
-
-Note que eu atualizei os links do LinkedIn e e-mail com base nos seus dados e adicionei as tecnologias que você mencionou (Java, Oracle, PL/SQL). Basta copiar e colar no seu README.md do GitHub:
-
-Markdown
 # 👋 Olá, eu sou João Vitor (Vitor)
 
 📊 **System & Data Analyst na área da Saúde | Estagiário de Sistemas Healthcare** 💡 Focado em transformar dados complexos em decisões estratégicas no setor hospitalar.  
