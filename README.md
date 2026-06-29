@@ -20,22 +20,16 @@
 
 ## 🐍 Linguagens e Bibliotécas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-F2C811?style=for-the-badge&logo=ReactJS&logoColor=black).
 ![NodeJs](https://img.shields.io/badge/NodeJs-008000?style=for-the-badge&logo=nodejs&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logo=javascript&logoColor=black).
 
 ---
 
-# 📌 Atuação e Expertise
-
-📊 **SQL Avançado ** Construção de queries complexas, views e automação de extração de dados para suporte à decisão empresarial.
-
----
 
 # 📚 Atualmente Estudando
 
-* 📊 **PL/SQL Avançado:** Procedures, Triggers e Performance Tuning.
-* 🏥 **Business Rules:** Aprofundamento nas regras de negócio de sistemas.
+* 📊 **React e Node Avançado:*Fazendo uma formação full-stack.* 
 * 🇬🇧 **English:** Foco em proficiência para atuação global.
 
 ---
