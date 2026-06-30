@@ -32,9 +32,9 @@ Estudante de Ciência da Computação e Estagiário de Sistemas na DaVita Tratam
 
 <div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfscs&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitorfscs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorfscs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorfscs&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/vitorfscs)
 
 </div>
 
